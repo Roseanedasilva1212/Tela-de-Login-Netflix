@@ -1,5 +1,3 @@
-# Tela-de-Login-Netflix
-
 # Projeto Tela de Login Netflix
 
 Este projeto é uma reprodução da tela de login da Netflix, criada com o objetivo de praticar HTML e CSS.
