@@ -17,6 +17,8 @@ Este projeto é uma reprodução da tela de login da Netflix, criada com o objet
 - Animações sutis para melhorar a experiência do usuário.
 - Validação de formulário simples para verificar campos vazios.
 
+##Link do site: https://roseanedasilva1212.github.io/Tela-de-Login-Netflix/
+
 ## Imagem do projeto
 
 
